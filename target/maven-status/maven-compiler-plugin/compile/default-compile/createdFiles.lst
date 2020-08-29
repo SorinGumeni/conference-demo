@@ -1,0 +1,9 @@
+com/demo/conferencedemo/repositories/SessionRepository.class
+com/demo/conferencedemo/controllers/HomeController.class
+com/demo/conferencedemo/controllers/SessionsController.class
+com/demo/conferencedemo/config/PersistenceConfiguration.class
+com/demo/conferencedemo/ConferenceDemoApplication.class
+com/demo/conferencedemo/models/Speaker.class
+com/demo/conferencedemo/controllers/SpeakersController.class
+com/demo/conferencedemo/models/Session.class
+com/demo/conferencedemo/repositories/SpeakerRepository.class

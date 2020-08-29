@@ -1,0 +1,9 @@
+/workspace/conference-demo/src/main/java/com/demo/conferencedemo/repositories/SessionRepository.java
+/workspace/conference-demo/src/main/java/com/demo/conferencedemo/ConferenceDemoApplication.java
+/workspace/conference-demo/src/main/java/com/demo/conferencedemo/config/PersistenceConfiguration.java
+/workspace/conference-demo/src/main/java/com/demo/conferencedemo/controllers/SessionsController.java
+/workspace/conference-demo/src/main/java/com/demo/conferencedemo/repositories/SpeakerRepository.java
+/workspace/conference-demo/src/main/java/com/demo/conferencedemo/controllers/SpeakersController.java
+/workspace/conference-demo/src/main/java/com/demo/conferencedemo/controllers/HomeController.java
+/workspace/conference-demo/src/main/java/com/demo/conferencedemo/models/Session.java
+/workspace/conference-demo/src/main/java/com/demo/conferencedemo/models/Speaker.java
